@@ -1,8 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+A+Hoiiyaa!;na+na+na+na+naaaa+na!;puca+thama!)</p>
-<p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
-</p>
-
 
 ## Deploy to Koyeb
 
